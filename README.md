@@ -34,5 +34,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayucs-tech&show_icons=true&locale=en&layout=compact" alt="ayucs-tech" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayucs-tech&show_icons=true&locale=en" alt="ayucs-tech" /></p>
